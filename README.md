@@ -8,9 +8,9 @@ A very simple text adventure built as an example for a blog series.
 * ExampleTextAdventure - an example text Adventure console app built using AdventureEngine
 
 ## Walkthrough 
-
-The minimum steps to finish the simple example are:
-
+<details>
+<summary>The minimum steps to finish the simple example are [<i>spoiler - click to reveal</i>]:</summary>
+  
 * move east
 * move east
 * examine doormat
@@ -31,3 +31,4 @@ The minimum steps to finish the simple example are:
 * move west
 * move north
 * give cash taxi
+</details>

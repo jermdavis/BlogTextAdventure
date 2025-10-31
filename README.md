@@ -1,10 +1,10 @@
-# Blog Text AdventureEngine Example
+# Blog Text Adventure Example
 
 A very simple text adventure built as an example for a blog series.
 
 ## Projects:
 
-* AdventureEngine - core code and classes for building simple text Adventure games. 
+* AdventureEngine - a library with core code and classes for building simple text Adventure games. 
 * ExampleTextAdventure - an example text Adventure console app built using AdventureEngine
 
 ## Walkthrough 

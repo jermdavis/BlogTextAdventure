@@ -1,6 +1,6 @@
 # Blog Text Adventure Example
 
-A very simple text adventure built as an example for a blog series.
+A very simple text adventure built as an example for <a href="https://blog.jermdavis.dev/posts/2025/textadventure-world" target="_blank">a blog series I'm working through</a>.
 
 ## Projects:
 

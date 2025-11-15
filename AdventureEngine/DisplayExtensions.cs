@@ -5,7 +5,7 @@
         
         public static void Display(this World world, string text)
         {
-            var w = Console.WindowWidth;
+            var w = Console.WindowWidth == 0 ? 80 : Console.WindowWidth;
 
             var lines = text.Split(System.Environment.NewLine);
             foreach (var line in lines)
